@@ -1,0 +1,11 @@
+# environnement
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# données (volumineuses, régénérables avec les notebooks 01 → 04)
+data/
+
+# notes personnelles pour Claude (non publiées)
+CLAUDE.md
