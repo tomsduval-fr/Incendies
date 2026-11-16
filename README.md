@@ -4,6 +4,8 @@
 
 Modèle de machine learning qui estime, pour chacune des 119 communes des Bouches-du-Rhône et chaque jour, la probabilité d'au moins un départ de feu de forêt, à partir de 10 ans de feux réels (BDIFF) et de météo journalière (Open-Meteo / ERA5).
 
+> **Suite :** le même projet à l'échelle des 15 départements méditerranéens (3 505 communes, météo Météo-France SIM2, comparaison de 4 modèles) → [incendies-mediterranee](https://github.com/tomsduval-fr/incendies-mediterranee).
+
 **👉 [Ouvrir la carte interactive des scénarios 2027](outputs/carte_scenarios_2027.html)** · [version en ligne](https://tomsduval-fr.github.io/incendies/outputs/carte_scenarios_2027.html)
 
 ![Carte des scénarios 2027 – scénario central, mi-juillet](images/carte_scenarios_2027.png)
